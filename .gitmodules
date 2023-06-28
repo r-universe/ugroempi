@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DoE.wrapper"]
 	path = DoE.wrapper
 	url = https://github.com/cran/DoE.wrapper
-	shallow = true
-	registered = true
 [submodule "ic.infer"]
 	path = ic.infer
 	url = https://github.com/cran/ic.infer
-	shallow = true
-	registered = true
 [submodule "prepplot"]
 	path = prepplot
 	url = https://github.com/cran/prepplot
-	shallow = true
-	registered = true
