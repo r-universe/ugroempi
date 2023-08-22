@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "DoE.wrapper"]
-	path = DoE.wrapper
-	url = https://github.com/cran/DoE.wrapper
 [submodule "ic.infer"]
 	path = ic.infer
 	url = https://github.com/cran/ic.infer
