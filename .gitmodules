@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ic.infer"]
-	path = ic.infer
-	url = https://github.com/cran/ic.infer
 [submodule "prepplot"]
 	path = prepplot
 	url = https://github.com/cran/prepplot
