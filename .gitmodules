@@ -2,6 +2,30 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DoE.MIParray"]
+	path = DoE.MIParray
+	url = https://github.com/cran/DoE.MIParray
+[submodule "DoE.base"]
+	path = DoE.base
+	url = https://github.com/cran/DoE.base
+[submodule "DoE.wrapper"]
+	path = DoE.wrapper
+	url = https://github.com/cran/DoE.wrapper
+[submodule "FrF2"]
+	path = FrF2
+	url = https://github.com/cran/FrF2
+[submodule "FrF2.catlg128"]
+	path = FrF2.catlg128
+	url = https://github.com/cran/FrF2.catlg128
+[submodule "RcmdrPlugin.DoE"]
+	path = RcmdrPlugin.DoE
+	url = https://github.com/cran/RcmdrPlugin.DoE
+[submodule "ic.infer"]
+	path = ic.infer
+	url = https://github.com/cran/ic.infer
 [submodule "prepplot"]
 	path = prepplot
 	url = https://github.com/cran/prepplot
+[submodule "relaimpo"]
+	path = relaimpo
+	url = https://github.com/cran/relaimpo
