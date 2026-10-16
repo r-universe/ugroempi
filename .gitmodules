@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CAs"]
+	path = CAs
+	url = https://github.com/ugroempi/cas
 [submodule "DoE.MIParray"]
 	path = DoE.MIParray
 	url = https://github.com/cran/DoE.MIParray
